@@ -1,2 +1,2 @@
-# C2CT_corejava_skit_snehs1011
+# C2CT_corejava_skit_sneha1011
 Java Training Program
